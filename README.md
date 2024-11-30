@@ -1,6 +1,6 @@
 # sqlgen-nb
 
-Write PostgreSQL query from natural language using on-prem gen AI with Ollama. Having Juypter Notebook as the frontend for a minimal setup. 
+Write PostgreSQL query from natural language using on-prem gen AI -- with IBM Granite Code LLM, Ollama and having Juypter Notebook as frontend. 
 
 Inspired by a use case mentioned by Anthropic, this is a minimal and local implementation that idea. 
 
