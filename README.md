@@ -1,2 +1,4 @@
 # sqlgen-nb
-Generate SQL query from Postgres schema on prem using Ollama 
+
+Generate Postgres SQL query using on-prem gen AI with Ollama 
+
