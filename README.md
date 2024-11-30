@@ -16,7 +16,7 @@ LangChain https://python.langchain.com/docs/how_to/installation/
 
 Ollama https://ollama.com/download 
 
-Pull `IBM Granite Code model` in Terminal: 
+Pull `IBM Granite Code` model in Terminal: 
 
 ```zsh
 ollama pull granite-code:8b-instruct 
