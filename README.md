@@ -4,9 +4,7 @@ Write PostgreSQL query from natural language using on-prem gen AI -- with IBM Gr
 
 Inspired by a use case mentioned by Anthropic, this is a minimal and local implementation of that idea. 
 
-![Enter schema and user prompt](img/screen1.png)
-
-![SQL query, GET!](img/screen2.png)
+![Flowchart](img/flowchart.png)
 
 ## Installation 
 
@@ -29,6 +27,10 @@ ollama pull granite-code:8b-instruct
 3. Enter your question in `user_prompt =` 
 4. Click `Run all` to run all the cells in the Juypter Notebook 
 5. Scroll to the bottom for the SQL query generated 
+
+![Enter schema and user prompt](img/screen1.png)
+
+![SQL query, GET!](img/screen2.png)
 
 ## Challenges & limitations 
 
