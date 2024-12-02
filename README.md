@@ -2,7 +2,7 @@
 
 Write PostgreSQL query from natural language using on-prem gen AI -- with IBM Granite Code LLM, Ollama on Juypter Notebook. 
 
-Inspired by a use case mentioned by Anthropic, this is a minimal setup local implementation of that idea. 
+Inspired by a use case mentioned by Anthropic -- but is a local implementation with a minimal setup. 
 
 ![Enter schema and user prompt](img/screen1.png)
 
