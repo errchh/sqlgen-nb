@@ -36,3 +36,8 @@ ollama pull granite-code:8b-instruct
 
 Gen AI is non-deterministic. With the same user prompt, it generates slightly different completions every time. Verify before use. 
 
+## What's next?  
+
+As this involves interacting LLM with database. The codes could be reused in database agent in multiagent workflow. 
+
+![As database agent](img/dbagent.png) 
